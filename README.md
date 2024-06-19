@@ -1,8 +1,11 @@
-# React + Vite
+## React - TailwindCSS Project
+This is a simple React project built with TailwindCSS. The project includes a responsive design and features a FAQ section with expandable answers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features
+React: A JavaScript library for building user interfaces.
+TailwindCSS: A utility-first CSS framework for rapid UI development.
+Responsive Design: The application is responsive and works well on different screen sizes.
+FAQ Section: An interactive FAQ section where users can expand and collapse answers.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Screen Shots
+![Uploading screencapture-localhost-5173-2024-06-19-23_18_15.png…]()
